@@ -6,4 +6,4 @@
 
 #Homework Assignments:
 
-* Homework 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cdspower-upei/2026W-CS1910-Students/blob/main/Homework/HW1/student/HW-01.ipynb)
+* Homework 1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cdspower-upei/2026W-CS1910-Students/blob/main/Homework/HW1/HW-01.ipynb)
